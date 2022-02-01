@@ -5,6 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: kyryl.bogach.es
     url: https://kyryl.bogach.es
+  - name: reservas.mudic.es
+    url: https://reservas.mudic.es
+  - name: clinicafabregat.com
+    url: https://clinicafabregat.com
+  - name: senoshaidodelasmanos.love
+    url: https://senoshaidodelasmanos.love
+  - name: admin.angelopezdietista.com
+    url: https://admin.angelopezdietista.com
+  - name: grazindafranco.com
+    url: https://grazindafranco.com
     
 assignees:
   - kyryl-bogach
