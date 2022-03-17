@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/clinicafabregat.com",
     "slug": "clinicafabregat-com",
     "status": "up",
-    "uptime": "19.62%",
+    "uptime": "20.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.82%",
-    "uptimeYear": "19.62%",
+    "uptimeMonth": "37.82%",
+    "uptimeYear": "20.73%",
     "time": 876,
     "timeDay": 1023,
     "timeWeek": 885,
@@ -113,7 +113,7 @@
     "url": "https://admin.angelopezdietista.com",
     "icon": "https://favicons.githubusercontent.com/admin.angelopezdietista.com",
     "slug": "admin-angelopezdietista-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -124,7 +124,9 @@
     "timeWeek": 372,
     "timeMonth": 373,
     "timeYear": 365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-17": 0
+    }
   },
   {
     "name": "grazindafranco.com",
