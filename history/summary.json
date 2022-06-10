@@ -4,19 +4,19 @@
     "url": "https://kyryl.bogach.es",
     "icon": "https://favicons.githubusercontent.com/kyryl.bogach.es",
     "slug": "kyryl-bogach-es",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 4235,
-    "timeWeek": 1601,
-    "timeMonth": 968,
-    "timeYear": 774,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 773,
+    "timeDay": 3037,
+    "timeWeek": 1494,
+    "timeMonth": 958,
+    "timeYear": 773,
     "dailyMinutesDown": {
-      "2022-06-10": 0
+      "2022-06-10": 19
     }
   },
   {
