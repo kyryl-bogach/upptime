@@ -24,9 +24,9 @@
     "url": "https://reservas.mudic.es",
     "icon": "https://favicons.githubusercontent.com/reservas.mudic.es",
     "slug": "reservas-mudic-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 815,
     "timeMonth": 745,
     "timeYear": 659,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-13": 0
+    }
   },
   {
     "name": "clinicafabregat.com",
@@ -43,15 +45,15 @@
     "icon": "https://favicons.githubusercontent.com/clinicafabregat.com",
     "slug": "clinicafabregat-com",
     "status": "up",
-    "uptime": "77.97%",
+    "uptime": "78.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "77.97%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "78.08%",
     "time": 1013,
     "timeDay": 1239,
     "timeWeek": 1082,
-    "timeMonth": 1052,
+    "timeMonth": 1027,
     "timeYear": 1013,
     "dailyMinutesDown": {
       "2022-07-03": 63,
