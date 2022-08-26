@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 766,
-    "timeDay": 809,
-    "timeWeek": 759,
-    "timeMonth": 742,
+    "timeDay": 786,
+    "timeWeek": 762,
+    "timeMonth": 748,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2022-06-10": 19
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 660,
-    "timeDay": 761,
-    "timeWeek": 710,
-    "timeMonth": 670,
-    "timeYear": 660,
+    "time": 661,
+    "timeDay": 870,
+    "timeWeek": 735,
+    "timeMonth": 676,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2022-07-13": 18
     }
@@ -45,15 +45,15 @@
     "icon": "https://favicons.githubusercontent.com/clinicafabregat.com",
     "slug": "clinicafabregat-com",
     "status": "up",
-    "uptime": "82.16%",
+    "uptime": "82.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.11%",
-    "uptimeMonth": "97.51%",
-    "uptimeYear": "82.16%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "82.25%",
     "time": 1024,
-    "timeDay": 1023,
-    "timeWeek": 964,
-    "timeMonth": 1080,
+    "timeDay": 1036,
+    "timeWeek": 966,
+    "timeMonth": 1086,
     "timeYear": 1024,
     "dailyMinutesDown": {
       "2022-08-23": 90,
@@ -133,9 +133,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 980,
-    "timeDay": 1120,
-    "timeWeek": 1006,
-    "timeMonth": 965,
+    "timeDay": 945,
+    "timeWeek": 972,
+    "timeMonth": 971,
     "timeYear": 980,
     "dailyMinutesDown": {}
   },
@@ -150,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 430,
-    "timeDay": 469,
-    "timeWeek": 448,
-    "timeMonth": 454,
-    "timeYear": 430,
+    "time": 431,
+    "timeDay": 564,
+    "timeWeek": 463,
+    "timeMonth": 460,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2022-03-17": 120
     }
@@ -170,11 +170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1473,
-    "timeDay": 1240,
-    "timeWeek": 1168,
-    "timeMonth": 1129,
-    "timeYear": 1473,
+    "time": 1472,
+    "timeDay": 1303,
+    "timeWeek": 1172,
+    "timeMonth": 1141,
+    "timeYear": 1472,
     "dailyMinutesDown": {}
   }
 ]
