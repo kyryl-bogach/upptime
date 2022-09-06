@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 769,
-    "timeDay": 596,
-    "timeWeek": 746,
-    "timeMonth": 776,
+    "timeDay": 886,
+    "timeWeek": 785,
+    "timeMonth": 778,
     "timeYear": 769,
     "dailyMinutesDown": {
       "2022-06-10": 19
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 661,
-    "timeDay": 684,
-    "timeWeek": 655,
-    "timeMonth": 664,
-    "timeYear": 661,
+    "time": 662,
+    "timeDay": 864,
+    "timeWeek": 696,
+    "timeMonth": 674,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2022-07-13": 18
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/clinicafabregat.com",
     "slug": "clinicafabregat-com",
     "status": "up",
-    "uptime": "83.07%",
+    "uptime": "83.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.14%",
-    "uptimeYear": "83.07%",
-    "time": 1021,
-    "timeDay": 825,
-    "timeWeek": 996,
-    "timeMonth": 988,
-    "timeYear": 1021,
+    "uptimeYear": "83.15%",
+    "time": 1022,
+    "timeDay": 1254,
+    "timeWeek": 1062,
+    "timeMonth": 994,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2022-08-23": 90,
       "2022-08-12": 112,
@@ -132,11 +132,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 979,
-    "timeDay": 928,
-    "timeWeek": 1030,
-    "timeMonth": 967,
-    "timeYear": 979,
+    "time": 980,
+    "timeDay": 1166,
+    "timeWeek": 1082,
+    "timeMonth": 973,
+    "timeYear": 980,
     "dailyMinutesDown": {}
   },
   {
@@ -150,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 434,
-    "timeDay": 355,
-    "timeWeek": 536,
-    "timeMonth": 470,
-    "timeYear": 434,
+    "time": 435,
+    "timeDay": 601,
+    "timeWeek": 565,
+    "timeMonth": 474,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2022-03-17": 120
     }
@@ -170,11 +170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1456,
-    "timeDay": 1212,
-    "timeWeek": 1156,
+    "time": 1454,
+    "timeDay": 1168,
+    "timeWeek": 1174,
     "timeMonth": 1116,
-    "timeYear": 1456,
+    "timeYear": 1454,
     "dailyMinutesDown": {}
   }
 ]
