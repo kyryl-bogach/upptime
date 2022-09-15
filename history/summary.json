@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 767,
-    "timeDay": 527,
-    "timeWeek": 670,
-    "timeMonth": 765,
+    "timeDay": 895,
+    "timeWeek": 715,
+    "timeMonth": 772,
     "timeYear": 767,
     "dailyMinutesDown": {
       "2022-06-10": 19
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 662,
-    "timeDay": 564,
-    "timeWeek": 649,
-    "timeMonth": 684,
+    "timeDay": 716,
+    "timeWeek": 656,
+    "timeMonth": 689,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2022-07-13": 18
@@ -45,15 +45,15 @@
     "icon": "https://favicons.githubusercontent.com/clinicafabregat.com",
     "slug": "clinicafabregat-com",
     "status": "up",
-    "uptime": "83.74%",
+    "uptime": "83.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "83.74%",
+    "uptimeYear": "83.82%",
     "time": 1036,
-    "timeDay": 741,
-    "timeWeek": 1364,
-    "timeMonth": 1082,
+    "timeDay": 991,
+    "timeWeek": 1386,
+    "timeMonth": 1088,
     "timeYear": 1036,
     "dailyMinutesDown": {
       "2022-09-11": 25,
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 978,
-    "timeDay": 761,
-    "timeWeek": 902,
-    "timeMonth": 969,
-    "timeYear": 978,
+    "time": 979,
+    "timeDay": 1165,
+    "timeWeek": 952,
+    "timeMonth": 977,
+    "timeYear": 979,
     "dailyMinutesDown": {}
   },
   {
@@ -152,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 435,
-    "timeDay": 378,
-    "timeWeek": 428,
-    "timeMonth": 467,
+    "timeDay": 449,
+    "timeWeek": 433,
+    "timeMonth": 470,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2022-03-17": 120
@@ -171,11 +171,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1441,
-    "timeDay": 770,
-    "timeWeek": 1057,
-    "timeMonth": 1112,
-    "timeYear": 1441,
+    "time": 1440,
+    "timeDay": 1203,
+    "timeWeek": 1083,
+    "timeMonth": 1127,
+    "timeYear": 1440,
     "dailyMinutesDown": {}
   }
 ]
