@@ -4,10 +4,10 @@
     "url": "https://kyryl.bogach.es",
     "icon": "https://icons.duckduckgo.com/ip3/kyryl.bogach.es.ico",
     "slug": "kyryl-bogach-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 766,
@@ -16,6 +16,7 @@
     "timeMonth": 740,
     "timeYear": 766,
     "dailyMinutesDown": {
+      "2022-10-06": 2,
       "2022-06-10": 19
     }
   },
@@ -45,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/clinicafabregat.com.ico",
     "slug": "clinicafabregat-com",
     "status": "up",
-    "uptime": "85.18%",
+    "uptime": "85.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "85.18%",
+    "uptimeYear": "85.19%",
     "time": 1076,
     "timeDay": 827,
     "timeWeek": 897,
@@ -128,10 +129,10 @@
     "url": "https://senoshaidodelasmanos.love",
     "icon": "https://icons.duckduckgo.com/ip3/senoshaidodelasmanos.love.ico",
     "slug": "senoshaidodelasmanos-love",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 983,
@@ -139,17 +140,19 @@
     "timeWeek": 915,
     "timeMonth": 1006,
     "timeYear": 983,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-06": 1
+    }
   },
   {
     "name": "admin.angelopezdietista.com",
     "url": "https://admin.angelopezdietista.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin.angelopezdietista.com.ico",
     "slug": "admin-angelopezdietista-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 441,
@@ -158,6 +161,7 @@
     "timeMonth": 483,
     "timeYear": 441,
     "dailyMinutesDown": {
+      "2022-10-06": 1,
       "2022-03-17": 120
     }
   },
@@ -166,9 +170,9 @@
     "url": "https://grazindafranco.com",
     "icon": "https://icons.duckduckgo.com/ip3/grazindafranco.com.ico",
     "slug": "grazindafranco-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,6 +181,8 @@
     "timeWeek": 2413,
     "timeMonth": 1652,
     "timeYear": 1478,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-06": 0
+    }
   }
 ]
