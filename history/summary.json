@@ -4,9 +4,9 @@
     "url": "https://kyryl.bogach.es",
     "icon": "https://icons.duckduckgo.com/ip3/kyryl.bogach.es.ico",
     "slug": "kyryl-bogach-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 715,
     "timeYear": 760,
     "dailyMinutesDown": {
+      "2022-11-08": 0,
       "2022-10-06": 144,
       "2022-06-10": 19
     }
@@ -46,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/clinicafabregat.com.ico",
     "slug": "clinicafabregat-com",
     "status": "up",
-    "uptime": "86.88%",
+    "uptime": "86.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "86.88%",
+    "uptimeYear": "86.90%",
     "time": 1060,
     "timeDay": 1258,
     "timeWeek": 951,
@@ -130,9 +131,9 @@
     "url": "https://senoshaidodelasmanos.love",
     "icon": "https://icons.duckduckgo.com/ip3/senoshaidodelasmanos.love.ico",
     "slug": "senoshaidodelasmanos-love",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -142,6 +143,7 @@
     "timeMonth": 946,
     "timeYear": 977,
     "dailyMinutesDown": {
+      "2022-11-08": 0,
       "2022-10-06": 143
     }
   },
@@ -171,9 +173,9 @@
     "url": "https://grazindafranco.com",
     "icon": "https://icons.duckduckgo.com/ip3/grazindafranco.com.ico",
     "slug": "grazindafranco-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -183,6 +185,7 @@
     "timeMonth": 1082,
     "timeYear": 1447,
     "dailyMinutesDown": {
+      "2022-11-08": 0,
       "2022-10-06": 142
     }
   }
