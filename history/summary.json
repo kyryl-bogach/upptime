@@ -49,9 +49,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/clinicafabregat.com.ico",
     "slug": "clinicafabregat-com",
     "status": "down",
-    "uptime": "50.91%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "95.85%",
+    "uptime": "50.90%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "95.73%",
     "uptimeMonth": "39.28%",
     "uptimeYear": "33.25%",
     "time": 1098,
@@ -60,7 +60,7 @@
     "timeMonth": 1301,
     "timeYear": 1121,
     "dailyMinutesDown": {
-      "2023-08-26": 13,
+      "2023-08-26": 26,
       "2023-08-20": 405,
       "2023-08-13": 651,
       "2023-08-12": 1440,
@@ -327,12 +327,12 @@
     "url": "https://senoshaidodelasmanos.love",
     "icon": "https://icons.duckduckgo.com/ip3/senoshaidodelasmanos.love.ico",
     "slug": "senoshaidodelasmanos-love",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "50.32%",
-    "uptimeWeek": "60.59%",
-    "uptimeMonth": "90.93%",
-    "uptimeYear": "99.24%",
+    "uptimeDay": "51.17%",
+    "uptimeWeek": "60.77%",
+    "uptimeMonth": "90.97%",
+    "uptimeYear": "99.25%",
     "time": 855,
     "timeDay": 463,
     "timeWeek": 374,
@@ -345,7 +345,7 @@
       "2023-08-23": 792,
       "2023-08-22": 555,
       "2023-08-21": 676,
-      "2023-08-20": 455
+      "2023-08-20": 437
     }
   },
   {
