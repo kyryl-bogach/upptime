@@ -50,9 +50,9 @@
     "slug": "clinicafabregat-com",
     "status": "up",
     "uptime": "50.97%",
-    "uptimeDay": "87.19%",
+    "uptimeDay": "88.07%",
     "uptimeWeek": "93.96%",
-    "uptimeMonth": "42.14%",
+    "uptimeMonth": "42.17%",
     "uptimeYear": "33.22%",
     "time": 1154,
     "timeDay": 7059,
@@ -327,11 +327,11 @@
     "url": "https://senoshaidodelasmanos.love",
     "icon": "https://icons.duckduckgo.com/ip3/senoshaidodelasmanos.love.ico",
     "slug": "senoshaidodelasmanos-love",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "47.82%",
-    "uptimeWeek": "59.67%",
-    "uptimeMonth": "90.72%",
+    "uptimeDay": "47.81%",
+    "uptimeWeek": "59.90%",
+    "uptimeMonth": "90.77%",
     "uptimeYear": "99.23%",
     "time": 851,
     "timeDay": 450,
@@ -345,7 +345,7 @@
       "2023-08-24": 522,
       "2023-08-23": 792,
       "2023-08-22": 555,
-      "2023-08-21": 474
+      "2023-08-21": 450
     }
   },
   {
