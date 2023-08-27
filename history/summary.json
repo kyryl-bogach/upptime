@@ -52,7 +52,7 @@
     "uptime": "50.95%",
     "uptimeDay": "85.84%",
     "uptimeWeek": "93.96%",
-    "uptimeMonth": "41.56%",
+    "uptimeMonth": "41.59%",
     "uptimeYear": "33.22%",
     "time": 1154,
     "timeDay": 7059,
@@ -327,15 +327,15 @@
     "url": "https://senoshaidodelasmanos.love",
     "icon": "https://icons.duckduckgo.com/ip3/senoshaidodelasmanos.love.ico",
     "slug": "senoshaidodelasmanos-love",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "52.23%",
-    "uptimeWeek": "60.20%",
-    "uptimeMonth": "90.84%",
-    "uptimeYear": "99.24%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "52.51%",
+    "uptimeWeek": "60.66%",
+    "uptimeMonth": "90.95%",
+    "uptimeYear": "99.25%",
     "time": 855,
     "timeDay": 426,
-    "timeWeek": 375,
+    "timeWeek": 376,
     "timeMonth": 442,
     "timeYear": 816,
     "dailyMinutesDown": {
@@ -345,7 +345,7 @@
       "2023-08-24": 522,
       "2023-08-23": 792,
       "2023-08-22": 555,
-      "2023-08-21": 575
+      "2023-08-21": 528
     }
   },
   {
