@@ -28,10 +28,10 @@
     "url": "https://reservas.mudic.es",
     "icon": "https://icons.duckduckgo.com/ip3/reservas.mudic.es.ico",
     "slug": "reservas-mudic-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 700,
@@ -40,6 +40,7 @@
     "timeMonth": 681,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2023-09-18": 1,
       "2023-01-25": 51
     }
   },
@@ -52,7 +53,7 @@
     "uptime": "49.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.94%",
+    "uptimeMonth": "38.91%",
     "uptimeYear": "28.25%",
     "time": 1162,
     "timeDay": 0,
@@ -60,7 +61,7 @@
     "timeMonth": 2183,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2023-09-18": 1416,
+      "2023-09-18": 1429,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
@@ -345,12 +346,12 @@
     "url": "https://senoshaidodelasmanos.love",
     "icon": "https://icons.duckduckgo.com/ip3/senoshaidodelasmanos.love.ico",
     "slug": "senoshaidodelasmanos-love",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "64.10%",
-    "uptimeWeek": "57.69%",
-    "uptimeMonth": "90.26%",
-    "uptimeYear": "99.19%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "64.08%",
+    "uptimeWeek": "58.09%",
+    "uptimeMonth": "90.36%",
+    "uptimeYear": "99.20%",
     "time": 642,
     "timeDay": 650,
     "timeWeek": 456,
@@ -363,7 +364,7 @@
       "2023-09-15": 583,
       "2023-09-14": 711,
       "2023-09-13": 1084,
-      "2023-09-12": 197
+      "2023-09-12": 156
     }
   },
   {
