@@ -52,7 +52,7 @@
     "uptime": "49.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.42%",
+    "uptimeMonth": "21.36%",
     "uptimeYear": "26.72%",
     "time": 1163,
     "timeDay": 0,
@@ -60,7 +60,7 @@
     "timeMonth": 3037,
     "timeYear": 1155,
     "dailyMinutesDown": {
-      "2023-09-24": 854,
+      "2023-09-24": 879,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
@@ -350,13 +350,13 @@
     "url": "https://senoshaidodelasmanos.love",
     "icon": "https://icons.duckduckgo.com/ip3/senoshaidodelasmanos.love.ico",
     "slug": "senoshaidodelasmanos-love",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "50.71%",
-    "uptimeWeek": "57.36%",
-    "uptimeMonth": "90.19%",
-    "uptimeYear": "99.18%",
-    "time": 629,
+    "uptimeDay": "52.37%",
+    "uptimeWeek": "57.52%",
+    "uptimeMonth": "90.23%",
+    "uptimeYear": "99.19%",
+    "time": 653,
     "timeDay": 646,
     "timeWeek": 612,
     "timeMonth": 409,
@@ -369,7 +369,7 @@
       "2023-09-20": 424,
       "2023-09-19": 748,
       "2023-09-18": 528,
-      "2023-09-17": 113
+      "2023-09-17": 97
     }
   },
   {
