@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 794,
-    "timeDay": 802,
-    "timeWeek": 811,
-    "timeMonth": 817,
-    "timeYear": 760,
+    "time": 793,
+    "timeDay": 658,
+    "timeWeek": 807,
+    "timeMonth": 802,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2023-10-19": 23,
       "2023-10-11": 79,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 711,
-    "timeDay": 639,
-    "timeWeek": 685,
-    "timeMonth": 726,
-    "timeYear": 695,
+    "time": 710,
+    "timeDay": 459,
+    "timeWeek": 663,
+    "timeMonth": 715,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2023-12-26": 162
     }
@@ -48,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/clinicafabregat.com.ico",
     "slug": "clinicafabregat-com",
     "status": "up",
-    "uptime": "67.87%",
-    "uptimeDay": "87.94%",
+    "uptime": "67.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.28%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "49.52%",
-    "time": 4787,
-    "timeDay": 8379,
-    "timeWeek": 4965,
-    "timeMonth": 3514,
-    "timeYear": 5450,
+    "uptimeYear": "49.80%",
+    "time": 4782,
+    "timeDay": 2606,
+    "timeWeek": 4929,
+    "timeMonth": 3497,
+    "timeYear": 5442,
     "dailyMinutesDown": {
       "2024-03-19": 174,
       "2024-02-15": 27,
@@ -277,8 +277,7 @@
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
-      "2023-03-23": 1440,
-      "2023-03-22": 1440
+      "2023-03-23": 1440
     }
   },
   {
@@ -292,11 +291,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1018,
-    "timeDay": 834,
-    "timeWeek": 1066,
-    "timeMonth": 1077,
-    "timeYear": 1018,
+    "time": 1016,
+    "timeDay": 835,
+    "timeWeek": 1026,
+    "timeMonth": 1064,
+    "timeYear": 1016,
     "dailyMinutesDown": {
       "2023-10-11": 78
     }
@@ -313,9 +312,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 468,
-    "timeDay": 454,
-    "timeWeek": 499,
-    "timeMonth": 481,
+    "timeDay": 374,
+    "timeWeek": 489,
+    "timeMonth": 473,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2023-10-11": 45
@@ -333,9 +332,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1282,
-    "timeDay": 1206,
-    "timeWeek": 1322,
-    "timeMonth": 1289,
+    "timeDay": 1132,
+    "timeWeek": 1304,
+    "timeMonth": 1294,
     "timeYear": 1284,
     "dailyMinutesDown": {
       "2023-10-11": 77,
