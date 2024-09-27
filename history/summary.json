@@ -56,12 +56,12 @@
     "url": "https://clinicafabregat.com",
     "icon": "https://icons.duckduckgo.com/ip3/clinicafabregat.com.ico",
     "slug": "clinicafabregat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "91.85%",
+    "uptimeDay": "91.84%",
     "uptimeWeek": "98.28%",
     "uptimeMonth": "96.64%",
-    "uptimeYear": "96.41%",
+    "uptimeYear": "96.42%",
     "time": 6863,
     "timeDay": 7217,
     "timeWeek": 7662,
@@ -111,7 +111,7 @@
       "2024-05-27": 1226,
       "2024-05-26": 1273,
       "2024-05-25": 1326,
-      "2024-05-24": 981
+      "2024-05-24": 926
     }
   },
   {
@@ -170,7 +170,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/grazindafranco.com.ico",
     "slug": "grazindafranco-com",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.49%",
