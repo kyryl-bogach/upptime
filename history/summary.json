@@ -56,9 +56,9 @@
     "url": "https://clinicafabregat.com",
     "icon": "https://icons.duckduckgo.com/ip3/clinicafabregat.com.ico",
     "slug": "clinicafabregat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "96.91%",
     "uptimeYear": "96.43%",
@@ -68,6 +68,7 @@
     "timeMonth": 5588,
     "timeYear": 7028,
     "dailyMinutesDown": {
+      "2024-09-27": 0,
       "2024-09-22": 56,
       "2024-09-19": 152,
       "2024-09-18": 91,
@@ -110,7 +111,7 @@
       "2024-05-27": 1226,
       "2024-05-26": 1273,
       "2024-05-25": 1326,
-      "2024-05-24": 1007
+      "2024-05-24": 981
     }
   },
   {
