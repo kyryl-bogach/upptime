@@ -58,17 +58,16 @@
     "slug": "clinicafabregat-com",
     "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "96.56%",
-    "uptimeYear": "96.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "96.59%",
+    "uptimeYear": "96.41%",
     "time": 6853,
     "timeDay": 6589,
     "timeWeek": 5207,
     "timeMonth": 5625,
     "timeYear": 7036,
     "dailyMinutesDown": {
-      "2024-09-28": 11,
       "2024-09-27": 139,
       "2024-09-22": 56,
       "2024-09-19": 152,
@@ -112,7 +111,7 @@
       "2024-05-27": 1226,
       "2024-05-26": 1273,
       "2024-05-25": 1326,
-      "2024-05-24": 887
+      "2024-05-24": 926
     }
   },
   {
