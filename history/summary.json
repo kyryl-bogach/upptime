@@ -14,7 +14,7 @@
     "timeDay": 879,
     "timeWeek": 730,
     "timeMonth": 718,
-    "timeYear": 772,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2024-09-03": 941,
       "2024-09-02": 1034,
@@ -43,7 +43,7 @@
     "timeDay": 977,
     "timeWeek": 781,
     "timeMonth": 714,
-    "timeYear": 692,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2024-04-23": 23,
       "2024-04-22": 22,
@@ -55,17 +55,17 @@
     "url": "https://clinicafabregat.com",
     "icon": "https://icons.duckduckgo.com/ip3/clinicafabregat.com.ico",
     "slug": "clinicafabregat-com",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "67.37%",
-    "uptimeWeek": "66.06%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "67.35%",
+    "uptimeWeek": "67.08%",
     "uptimeMonth": "85.38%",
-    "uptimeYear": "98.47%",
+    "uptimeYear": "98.50%",
     "time": 7397,
-    "timeDay": 10190,
-    "timeWeek": 12823,
+    "timeDay": 9812,
+    "timeWeek": 12952,
     "timeMonth": 10101,
-    "timeYear": 7642,
+    "timeYear": 7648,
     "dailyMinutesDown": {
       "2024-10-11": 151,
       "2024-10-10": 377,
@@ -95,7 +95,7 @@
       "2024-08-04": 54,
       "2024-07-30": 98,
       "2024-07-29": 452,
-      "2024-07-28": 205
+      "2024-07-28": 31
     }
   },
   {
@@ -113,7 +113,7 @@
     "timeDay": 1090,
     "timeWeek": 869,
     "timeMonth": 846,
-    "timeYear": 972,
+    "timeYear": 971,
     "dailyMinutesDown": {
       "2024-09-03": 941,
       "2024-09-02": 1033,
@@ -131,7 +131,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.angelopezdietista.com.ico",
     "slug": "admin-angelopezdietista-com",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -140,7 +140,7 @@
     "timeDay": 655,
     "timeWeek": 488,
     "timeMonth": 479,
-    "timeYear": 469,
+    "timeYear": 468,
     "dailyMinutesDown": {
       "2024-09-03": 638,
       "2024-09-02": 1053
@@ -161,7 +161,7 @@
     "timeDay": 1323,
     "timeWeek": 1662,
     "timeMonth": 1344,
-    "timeYear": 1239,
+    "timeYear": 1238,
     "dailyMinutesDown": {
       "2024-09-03": 941,
       "2024-09-02": 1032,
