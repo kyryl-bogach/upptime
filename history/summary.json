@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kyryl.bogach.es.ico",
     "slug": "kyryl-bogach-es",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -55,11 +55,11 @@
     "url": "https://clinicafabregat.com",
     "icon": "https://icons.duckduckgo.com/ip3/clinicafabregat.com.ico",
     "slug": "clinicafabregat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "50.79%",
+    "uptimeDay": "54.05%",
     "uptimeWeek": "68.16%",
-    "uptimeMonth": "82.01%",
+    "uptimeMonth": "82.05%",
     "uptimeYear": "98.50%",
     "time": 7524,
     "timeDay": 10472,
@@ -85,8 +85,7 @@
       "2024-09-30": 548,
       "2024-09-29": 100,
       "2024-09-27": 139,
-      "2024-09-22": 56,
-      "2024-09-19": 18
+      "2024-09-22": 56
     }
   },
   {
