@@ -15,6 +15,8 @@ sites:
     url: https://admin.angelopezdietista.com
   - name: grazindafranco.com
     url: https://grazindafranco.com
+  - name: mail.bogach.es
+    url: https://mail.bogach.es
     
 assignees:
   - kyryl-bogach
