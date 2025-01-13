@@ -127,9 +127,9 @@
     "url": "https://admin.angelopezdietista.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin.angelopezdietista.com.ico",
     "slug": "admin-angelopezdietista-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
@@ -139,6 +139,7 @@
     "timeMonth": 498,
     "timeYear": 491,
     "dailyMinutesDown": {
+      "2025-01-13": 0,
       "2024-09-03": 638,
       "2024-09-02": 1053
     }
