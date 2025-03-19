@@ -186,18 +186,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.bogach.es.ico",
     "slug": "mail-bogach-es",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 714,
     "timeDay": 848,
     "timeWeek": 761,
     "timeMonth": 688,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2025-03-18": 9,
       "2024-12-05": 19
     }
   }
