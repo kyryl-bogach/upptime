@@ -57,9 +57,9 @@
     "url": "https://clinicafabregat.com",
     "icon": "https://icons.duckduckgo.com/ip3/clinicafabregat.com.ico",
     "slug": "clinicafabregat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.93%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "98.14%",
@@ -67,8 +67,9 @@
     "timeDay": 3800,
     "timeWeek": 5411,
     "timeMonth": 5124,
-    "timeYear": 6562,
+    "timeYear": 6539,
     "dailyMinutesDown": {
+      "2025-05-31": 0,
       "2025-05-29": 24,
       "2025-05-27": 63,
       "2025-05-26": 21,
@@ -99,7 +100,7 @@
       "2024-10-07": 552,
       "2024-10-06": 252,
       "2024-10-05": 621,
-      "2024-10-04": 216
+      "2024-10-04": 185
     }
   },
   {
@@ -108,7 +109,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/senoshaidodelasmanos.bogach.es.ico",
     "slug": "senoshaidodelasmanos-bogach-es",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
