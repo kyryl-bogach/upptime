@@ -7,10 +7,8 @@ sites:
     url: https://kyryl.bogach.es
   - name: reservas.mudic.es
     url: https://reservas.mudic.es
-  - name: clinicafabregat.com
-    url: https://clinicafabregat.com
-  - name: senoshaidodelasmanos.bogach.es
-    url: https://senoshaidodelasmanos.bogach.es/
+  - name: clinicafcsalud.com
+    url: https://clinicafcsalud.com
   - name: admin.angelopezdietista.com
     url: https://admin.angelopezdietista.com
   - name: grazindafranco.com
