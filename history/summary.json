@@ -56,9 +56,9 @@
     "url": "https://clinicafcsalud.com",
     "icon": "https://icons.duckduckgo.com/ip3/clinicafcsalud.com.ico",
     "slug": "clinicafcsalud-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
@@ -68,6 +68,7 @@
     "timeMonth": 1054,
     "timeYear": 1042,
     "dailyMinutesDown": {
+      "2025-08-30": 0,
       "2025-07-06": 263,
       "2025-07-05": 677
     }
