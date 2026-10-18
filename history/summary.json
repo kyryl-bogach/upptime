@@ -79,9 +79,9 @@
     "url": "https://admin.angelopezdietista.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin.angelopezdietista.com.ico",
     "slug": "admin-angelopezdietista-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,7 +90,9 @@
     "timeWeek": 481,
     "timeMonth": 469,
     "timeYear": 487,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-18": 0
+    }
   },
   {
     "name": "grazindafranco.com",
