@@ -29,10 +29,10 @@
     "slug": "reservas-mudic-es",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.51%",
+    "uptimeDay": "91.61%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "98.49%",
     "time": 945,
     "timeDay": 0,
     "timeWeek": 582,
@@ -49,7 +49,7 @@
       "2026-03-13": 819,
       "2026-03-12": 610,
       "2026-04-22": 56,
-      "2026-11-12": 0
+      "2026-11-12": 121
     }
   },
   {
