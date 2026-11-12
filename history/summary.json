@@ -27,15 +27,15 @@
     "url": "https://reservas.mudic.es",
     "icon": "https://icons.duckduckgo.com/ip3/reservas.mudic.es.ico",
     "slug": "reservas-mudic-es",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "91.61%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "98.49%",
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "66.61%",
+    "uptimeWeek": "95.23%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.42%",
     "time": 945,
-    "timeDay": 0,
-    "timeWeek": 582,
+    "timeDay": 691,
+    "timeWeek": 597,
     "timeMonth": 696,
     "timeYear": 806,
     "dailyMinutesDown": {
@@ -49,7 +49,7 @@
       "2026-03-13": 819,
       "2026-03-12": 610,
       "2026-04-22": 56,
-      "2026-11-12": 121
+      "2026-11-12": 481
     }
   },
   {
